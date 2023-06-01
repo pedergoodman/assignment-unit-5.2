@@ -1,3 +1,31 @@
+body {
+    margin: 0px;
+}
+
+.headerElements {
+    background-color: #270707;
+    color: #f9dddc;
+    text-align: center;
+}
+
+.main {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+.background {
+    background-image: url(record.png);
+    background-size: 15%;
+    background-repeat: repeat;
+}
+
+
+
+
+
+/*
+Original Styling
+
 header {
     background-color: #270707;
     color: #f9dddc;
@@ -15,3 +43,5 @@ body {
     background-repeat: repeat;
     margin: 0px;
 }
+
+*/
